@@ -42,7 +42,7 @@ banking-app
 
 ---
 
-## Database Design 
+
 
 ### Account
 
